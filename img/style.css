@@ -1,5 +1,3 @@
-.container{
-    background-image: url(./pattern.png);
-    height: 300px;
-    width: 100vw;
+.testo-evidenziato{
+  background-color: yellow;  
 }
