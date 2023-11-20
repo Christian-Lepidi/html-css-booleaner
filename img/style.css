@@ -1,3 +1,22 @@
+.container{
+   background-image: url("./pattern.png"); 
+   height: 350px;
+   background-color: rgba(0, 0, 255, 0.5)
+}
+
+.link{
+    text-decoration: none;
+}
+
+.inizio-tabella{
+    background-color: rgb(52, 111, 189);
+    color: white;
+}
+
+.colonna{
+    background-color: aqua;
+}
+
 .testo-evidenziato{
-  background-color: yellow;  
+    background-color: yellow;
 }
